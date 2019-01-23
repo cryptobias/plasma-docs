@@ -9,4 +9,3 @@ Here you'll find topics like how to write good documentation, how to create good
    :caption: Guides
 
    guides/documentation
-
